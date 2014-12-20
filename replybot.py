@@ -1,4 +1,7 @@
 '''
+Following https://github.com/voussoir's tutorial for writing reddit bots
+
+
 This is my reddit bot.
 Take 1
 '''
